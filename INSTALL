@@ -15,6 +15,7 @@ REQUIREMENTS
 - PHP 5 or latest
 - MySQL 5 or latest
 - PHP5-mysql driver
+- Php-mbstring module
 
 
 OPTIONAL REQUIREMENTS

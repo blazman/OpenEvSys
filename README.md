@@ -20,6 +20,7 @@ You will need the following installed on your local PC or server:
 - PHP 5 or latest
 - MySQL 5 or latest
 - PHP5-mysql driver
+- php-mbstring module
 
 Instructions on how to install OpenEvSys are contained in the file called "INSTALL.txt".
 
